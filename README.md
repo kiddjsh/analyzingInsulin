@@ -2,4 +2,5 @@
 
   - Analyzing Insulin with Python
   - mySolution
-  - via Visual Studio Code 2019
+  - via aws cloud 9 
+  - & Visual Studio Code 2019
