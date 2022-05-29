@@ -1,6 +1,5 @@
-#https://www.ncbi.nlm.nih.gov/protein/AAA59172.1
-#https://pythonexamples.org/python-replace-string-in-file/
-#https://pynative.com/python-regex-replace-re-sub/
+#Python v3.9.2
+#AWS re/Start Project | Source Code by Joshua Kidder
 
 
 import re
@@ -75,3 +74,9 @@ for character in file:
     bins.close()
     cins.close()
     ains.close()
+
+
+#references and resources
+#https://www.ncbi.nlm.nih.gov/protein/AAA59172.1
+#https://pythonexamples.org/python-replace-string-in-file/
+#https://pynative.com/python-regex-replace-re-sub/
